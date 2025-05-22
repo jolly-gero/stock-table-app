@@ -3,6 +3,8 @@
 This is a **single-page stock order dashboard** built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 It displays a dynamic table of stock transactions and includes filtering and expandable detail views.
 
+![image](https://github.com/user-attachments/assets/1e00335c-4270-4ac4-96a8-c211c1298dd5)
+
 ---
 
 ## Features
